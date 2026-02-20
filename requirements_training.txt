@@ -1,0 +1,15 @@
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.2.0
+tensorflow>=2.10.0
+flatbuffers==1.12
+onnx
+onnxruntime
+onnx-simplifier
+numpy
+opencv-python
+matplotlib
+pandas
+seaborn
+tqdm
+PyYAML

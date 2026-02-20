@@ -1,0 +1,8 @@
+python train.py \
+  --img 320 \
+  --batch 16 \
+  --epochs 100 \
+  --patience 20 \
+  --data data.yaml \
+  --weights yolov5n.pt \
+  --name pothole_fast

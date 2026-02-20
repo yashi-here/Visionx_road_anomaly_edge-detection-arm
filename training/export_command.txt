@@ -1,0 +1,7 @@
+# Export PyTorch Model to INT8 TensorFlow Lite (320x320)
+
+python export.py \
+  --weights best.pt \
+  --include tflite \
+  --int8 \
+  --img 320
